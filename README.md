@@ -1,0 +1,2 @@
+# SpeedJaringan
+$pkg install git
